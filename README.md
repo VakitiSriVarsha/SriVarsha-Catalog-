@@ -1,7 +1,5 @@
 **Catalog Placements Assignment - Shamir's Secret Sharing (Simplified)**
 
-**gh repo clone Bharathdandamoodi/Catalog-Placements-Assignment--Shamir-s-Secret-Sharing-algorithm**
-
 **Overview**
 
 This project implements a simplified version of Shamir's Secret Sharing algorithm to reconstruct the constant term (c) of an unknown polynomial, given a set of encoded roots. Here's the polynomial representation:
