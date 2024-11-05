@@ -33,24 +33,6 @@ The assignment involves processing a JSON file containing the following informat
 2. **Decode Y Values:** Convert the encoded values (`value`) for each root from their respective bases back to integers.
 3. **Polynomial Reconstruction:** Employ a method like Lagrange interpolation or another suitable technique to determine the constant term `c` using the decoded root values.
 
-**Setup and Usage**
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Bharathdandamoodi/Catalog-Placements-Assignment--Shamir-s-Secret-Sharing-algorithm
-   ```
-
-2. **Programming Environment:**
-   - Use a language of your choice (except Python) for the implementation.
-   - Ensure you have the necessary development tools (e.g., compiler, IDE) installed.
-
-3. **Input JSON File:**
-   - Prepare a JSON file adhering to the specified format (see "Input Format" section).
-   - Place the JSON file within the project directory.
-
-4. **Run the Program:**
-   - Execute the main script or executable file using your chosen environment.
-
 **Input Format**
 
 The expected input JSON format is as follows:
